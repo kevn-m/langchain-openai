@@ -1,11 +1,12 @@
 {
-  "name": "langchain-openai",
+  "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Small tool to use OpenAI's LLM to answer questions based on my knowledge on captur3d.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
